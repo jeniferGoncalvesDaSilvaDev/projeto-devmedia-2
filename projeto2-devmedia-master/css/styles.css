@@ -1,0 +1,84 @@
+
+img{
+    width: 190px;
+    margin-left: 396px;
+    margin-right:200px;
+    margin-top:10px;
+    
+    
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+.item1>h1{
+    text-align: center;
+}
+.item1>h2{
+    text-align: center;
+}
+.item1>p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin-bottom:5px;
+    
+}
+.item1>a{
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #2b9439;
+    color:#ffff;
+    padding: 10px;
+    border-radius: 10px;
+  
+}
+.item1>a{
+    margin-left:396px;
+    margin-bottom: 5px;
+}
+.item2>h2{
+    font-size: 24px;
+    font-family: 'Tahoma';
+    text-align: center;
+    margin-top:60px;
+    
+}
+
+.item2>p>span{
+    font-weight: bold;
+}
+.item2>p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    
+}
+.item3>h2{
+    font-size: 24px;
+    font-family: 'Tahoma';
+    text-align: center;
+    margin-top: 20px;
+}
+.item3>p{
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+}
